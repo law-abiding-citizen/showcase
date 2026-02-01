@@ -1,6 +1,6 @@
 # A Flappy Bird Clone
 
-Written using Unity framework. There is a live demo in [tolgakurt.info](http://tolgakurt.info/flappyClone)  
+Written using Unity framework. There is a live demo in [tolgakurt.info](http://tolgakurt.info/minis/flappyClone)  
 
 This is a game I developed for a custom console some years ago. The console was consisting of an Android box, a screen, a big red button, and a coin dispenser; so that the user should be able to play the game once they trigger the console with a single coin. I shooted a very amateur video of it [here](https://www.youtube.com/watch?v=CXxsyXM-y48).  
 
