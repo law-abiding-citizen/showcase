@@ -1,5 +1,5 @@
 # A Tetris 2048 Clone
-Written using React framework. There is a live demo in [tolgakurt.info](http://tolgakurt.info/tetris2048/public)  
+Written using React framework. There is a live demo in [tolgakurt.info](http://tolgakurt.info/minis/tetris2048/public)  
 
 I haven't spent much time on polishing the game, like moving the tiles smoothly pixel by pixel, or adding effects to the merging of the tiles.  
 
